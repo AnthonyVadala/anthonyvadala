@@ -18,8 +18,7 @@
 
 ## Laptop
 <a href="https://www.apple.com/macos/"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/></a>
-<a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Apple-MacBook_Pro_16-999999?style=for-the-badge&logo=apple&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Apple-MacBook_Pro_14-999999?style=for-the-badge&logo=apple&logoColor=white"/></a>
 
 ## Tools
 <a href="https://www.mozilla.org/en-US/firefox/new/"><img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/></a>
