@@ -12,8 +12,8 @@
 # Workspace
 ## Desktop
 <a href="https://www.microsoft.com/en-us/windows"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
-<a href="https://www.evga.com/Products/Specs/GPU.aspx?pn=0D3ACA30-C8B9-47A8-8AA8-0DDA2E7E7AC7"><img src="https://img.shields.io/badge/NVIDIA-RTX2080TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
-<a href="https://www.intel.com/content/www/us/en/products/sku/186604/intel-core-i79700k-processor-12m-cache-up-to-4-90-ghz/specifications.html"><img src="https://img.shields.io/badge/Intel-Core_i7_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
+<a href="https://www.gigabyte.com/Graphics-Card/GV-N4090WF3V2-24GD#kf"><img src="https://img.shields.io/badge/NVIDIA-RTX4090-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
+<a href="https://www.intel.com/content/www/us/en/products/sku/230496/intel-core-i913900k-processor-36m-cache-up-to-5-80-ghz/specifications.html"><img src="https://img.shields.io/badge/Intel-Core_i9_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
 
 
 ## Laptop
